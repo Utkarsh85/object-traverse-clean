@@ -1,0 +1,24 @@
+{
+  "name": "object-traverse-clean",
+  "version": "1.0.0",
+  "description": "changes string integers and booleans to integers and booleans",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utkarsh85/object-traverse-clean.git"
+  },
+  "keywords": [
+    "object",
+    "integer",
+    "clean"
+  ],
+  "author": "Utkarsh85",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Utkarsh85/object-traverse-clean/issues"
+  },
+  "homepage": "https://github.com/Utkarsh85/object-traverse-clean#readme"
+}
