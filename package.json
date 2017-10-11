@@ -1,6 +1,6 @@
 {
   "name": "object-traverse-clean",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "changes string integers and booleans to integers and booleans",
   "main": "index.js",
   "scripts": {
